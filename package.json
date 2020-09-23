@@ -1,0 +1,11 @@
+{
+  "name": "radius-wizard",
+  "version": "1.0.0",
+  "description": "npm package for adding border-radius to your elements. # Installation     `npm i radiuswizard --save`     ```     import {radiuswizard} from 'radiuswizard';     radiuswizard({         circle: false     })",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
